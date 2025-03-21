@@ -1,0 +1,47 @@
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    width: 1440;
+    height: 960px;
+    background-color: #d6e2f0;
+    display: flexbox;
+    text-align: center;
+    align-items: center;
+}
+
+#QR{
+    width: 230px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: "Outfit" ;
+    font-size: 15px;
+}
+
+
+#ScanQR{
+    font-weight: 400;
+}
+
+#Title{
+    font-weight: 700;
+}
+
+#father{
+
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#father2{
+
+    align-items: center;
+    margin-top: 10%;
+    
+}
